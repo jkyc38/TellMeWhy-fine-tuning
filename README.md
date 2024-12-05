@@ -1,8 +1,4 @@
 # TellMeWhy-fine-tuning
-Here's a README.md description for this project:
-
-# TellMeWhy Question-Answering Model
-
 ## Overview
 This project explores fine-tuning GPT-3.5-turbo for answering "why" questions about everyday narratives using the TellMeWhy dataset. The goal is to improve the model's ability to provide logical explanations for events and actions in short stories.
 
