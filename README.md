@@ -49,17 +49,6 @@ The fine-tuned model showed significant improvements over the baseline:
 - Various JSON files for training data and model outputs
 - Evaluation scripts and visualization tools
 
-## Future Work
-- Experiment with different prompting strategies
-- Implement additional evaluation metrics
-- Explore other model architectures and fine-tuning approaches
-
-## License
-[Include your chosen license here]
-
-## Contributors
-[Your name/organization]
-
 ## Acknowledgments
 - StonyBrookNLP for the TellMeWhy dataset
 - OpenAI for the GPT-3.5-turbo model and API
